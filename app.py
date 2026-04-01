@@ -13,3 +13,5 @@ INSERT INTO [dbo].[TableCopy] VALUES('[SalesLT].[ProductCategory]')
 INSERT INTO [dbo].[TableCopy] VALUES('[SalesLT].[ProductModel]')
 
 SELECT [TableName] FROM [dbo].[TableCopy]
+
+print("data engineering learning - query from azure folder")
